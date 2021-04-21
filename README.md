@@ -5,6 +5,6 @@ Security Analyst currently attending Code Platoon Coding Bootcamp.
 
 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/python-5" alt="PythonLogo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 
 --------
