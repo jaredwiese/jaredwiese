@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Jared Wiese!
 --------
-Security Analyst currently attending Code Platoon Coding Bootcamp.
+Security Implementation Engineer.
+Code Platoon Full-Stack Software Engineering Bootcamp graduate.
+Veteran. Husband. Father. Linux and Barbell Enthusiast.  
 --------
 
 🧰 Toolbox
